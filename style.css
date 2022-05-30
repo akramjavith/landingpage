@@ -58,6 +58,9 @@ body{
     width: 300px;
     height: 255px;
   }
+.s1h4{
+      font-size: 13px;
+  }
   .s1imgdiv {
     display: flex;
     justify-content: center;
