@@ -161,10 +161,11 @@ body{
     padding-top: 70px;
   }
   .s4hds {
-    color:black;
+       color: black;
+    font-weight: 900;
+    font-size: 10px;   
     font-weight: 900;
     font-size: 10px;
-    margin-left: 20px;
   }
   .s4btn {
     width: 120px;
